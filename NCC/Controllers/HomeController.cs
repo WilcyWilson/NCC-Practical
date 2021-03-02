@@ -21,8 +21,8 @@ namespace NCC.Controllers
         public IActionResult Index()
         {
             // return View();
-            // return View("../../tempview/mytest"); // Relative Path
-            return View("~/tempview/mytest.cshtml"); // Absolute Path
+            // return View("../../tempview/mytest"); // Relative Path 
+            return View("~/tempview/mytest.cshtml"); // Absolute Path ~ represents root
         }
 
         public IActionResult Privacy()

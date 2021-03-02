@@ -1,6 +1,11 @@
 ﻿@{
-    ViewData["Title"] = "Privacy Policy";
+    ViewData["Title"] = "Images";
 }
 <h1>@ViewData["Title"]</h1>
 
-<p>Use this page to detail your site's privacy policy.</p>
+<img src="~/image/sun.png" alt="logo" /> 
+@* Here ~ points to wwwroot folder by default *@
+@* We can make this such that it recognizes different root than wwwroot, 
+maybe some folder on the outside. Using startup.cs *@
+<img src="~/MyStaticFiles/green.png" alt="green"/>
+@* Now we can see it points to /MyStaticFiles and doesn't show the image inside wwwroot folder *@

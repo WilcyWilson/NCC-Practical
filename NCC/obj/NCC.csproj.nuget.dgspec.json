@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC/NCC.csproj": {}
+  },
+  "projects": {
+    "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC/NCC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC/NCC.csproj",
+        "projectName": "NCC",
+        "projectPath": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC/NCC.csproj",
+        "packagesPath": "/home/wilcy/.nuget/packages/",
+        "outputPath": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/wilcy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -8,31 +8,28 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\wilso\\.nuget\\packages\\": {}
+    "/home/wilcy/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Classes Videos\\NET Centric Development\\Test Wilson\\Test Wilson\\Test Wilson.csproj",
+      "projectUniqueName": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/Test Wilson.csproj",
       "projectName": "Test Wilson",
-      "projectPath": "D:\\Classes Videos\\NET Centric Development\\Test Wilson\\Test Wilson\\Test Wilson.csproj",
-      "packagesPath": "C:\\Users\\wilso\\.nuget\\packages\\",
-      "outputPath": "D:\\Classes Videos\\NET Centric Development\\Test Wilson\\Test Wilson\\obj\\",
+      "projectPath": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/Test Wilson.csproj",
+      "packagesPath": "/home/wilcy/.nuget/packages/",
+      "outputPath": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wilso\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/wilcy/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -44,7 +41,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -63,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.108/RuntimeIdentifierGraph.json"
       }
     }
   }

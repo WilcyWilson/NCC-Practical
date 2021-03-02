@@ -59,7 +59,9 @@ namespace NCC
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "WilcyWilson/{controller=Home}/{action=Index}/{id?}"); 
+                    // Adding some unique string in Endpoints so that the unique string is displayed in 
+                    // Address bar, Routing.
             });
         }
     }

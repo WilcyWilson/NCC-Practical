@@ -1,40 +1,78 @@
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\bin\Debug\netcoreapp3.1\Test Wilson.exe
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\bin\Debug\netcoreapp3.1\Test Wilson.deps.json
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\bin\Debug\netcoreapp3.1\Test Wilson.runtimeconfig.json
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\bin\Debug\netcoreapp3.1\Test Wilson.runtimeconfig.dev.json
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\bin\Debug\netcoreapp3.1\Test Wilson.dll
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\bin\Debug\netcoreapp3.1\Test Wilson.pdb
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\bin\Debug\netcoreapp3.1\Test Wilson.Views.dll
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\bin\Debug\netcoreapp3.1\Test Wilson.Views.pdb
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.csprojAssemblyReference.cache
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.AssemblyInfoInputs.cache
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.AssemblyInfo.cs
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.csproj.CoreCompileInputs.cache
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.MvcApplicationPartsAssemblyInfo.cache
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.RazorAssemblyInfo.cache
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.RazorAssemblyInfo.cs
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\staticwebassets\Test Wilson.StaticWebAssets.Manifest.cache
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\staticwebassets\Test Wilson.StaticWebAssets.xml
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\scopedcss\bundle\Test Wilson.styles.css
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.TagHelpers.input.cache
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.TagHelpers.output.cache
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.RazorCoreGenerate.cache
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.RazorTargetAssemblyInfo.cache
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.RazorTargetAssemblyInfo.cs
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.Views.pdb
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.dll
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.pdb
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.genruntimeconfig.cache
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Test Wilson.csproj.CopyComplete
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
-D:\Classes Videos\NET Centric Development\Test Wilson\Test Wilson\obj\Debug\netcoreapp3.1\Razor\Views\Student\Profile.cshtml.g.cs
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.exe
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.deps.json
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.runtimeconfig.json
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.runtimeconfig.dev.json
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.dll
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.pdb
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.Views.dll
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.Views.pdb
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.csprojAssemblyReference.cache
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.AssemblyInfoInputs.cache
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.AssemblyInfo.cs
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.csproj.CoreCompileInputs.cache
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.MvcApplicationPartsAssemblyInfo.cache
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.RazorAssemblyInfo.cache
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.RazorAssemblyInfo.cs
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/staticwebassets/Test Wilson.StaticWebAssets.Manifest.cache
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/staticwebassets/Test Wilson.StaticWebAssets.xml
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/scopedcss/bundle/Test Wilson.styles.css
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.TagHelpers.input.cache
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.TagHelpers.output.cache
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.RazorCoreGenerate.cache
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.RazorTargetAssemblyInfo.cache
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.RazorTargetAssemblyInfo.cs
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.Views.pdb
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.dll
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.pdb
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.genruntimeconfig.cache
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.csproj.CopyComplete
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Home/Contact.cshtml.g.cs
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Student/Index.cshtml.g.cs
+D:/Classes Videos/NET Centric Development/Test Wilson/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Student/Profile.cshtml.g.cs
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/bin/Debug/netcoreapp3.1/appsettings.json
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.deps.json
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.runtimeconfig.json
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.runtimeconfig.dev.json
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.dll
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.pdb
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.Views.dll
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/bin/Debug/netcoreapp3.1/Test Wilson.Views.pdb
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.csprojAssemblyReference.cache
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.MvcApplicationPartsAssemblyInfo.cache
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.RazorAssemblyInfo.cache
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.RazorAssemblyInfo.cs
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.AssemblyInfoInputs.cache
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.AssemblyInfo.cs
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.TagHelpers.input.cache
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.TagHelpers.output.cache
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.RazorCoreGenerate.cache
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Home/Contact.cshtml.g.cs
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Student/Index.cshtml.g.cs
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/Student/Profile.cshtml.g.cs
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.RazorTargetAssemblyInfo.cache
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.RazorTargetAssemblyInfo.cs
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.Views.pdb
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/staticwebassets/Test Wilson.StaticWebAssets.Manifest.cache
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/staticwebassets/Test Wilson.StaticWebAssets.xml
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.dll
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.pdb
+/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/Debug/netcoreapp3.1/Test Wilson.csproj.CopyComplete

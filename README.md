@@ -21,3 +21,7 @@ public void ConfigureServices(IServiceCollection services)
     // code omitted for brevity
 }
 ```
+## Enable Runtime Compilation at project creation
+```console
+dotnet new mvc --razor-runtime-compilation
+```

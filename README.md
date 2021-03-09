@@ -25,3 +25,7 @@ public void ConfigureServices(IServiceCollection services)
 ```console
 dotnet new mvc --razor-runtime-compilation
 ```
+## Installing SQL Server and Microsoft SQL Server Management Studio
+### Download link for SQL Server
+https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+

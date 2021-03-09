@@ -28,5 +28,5 @@ dotnet new mvc --razor-runtime-compilation
 ## Installing SQL Server and Microsoft SQL Server Management Studio
 ### Download link for SQL Server
 https://www.microsoft.com/en-us/sql-server/sql-server-downloads
-Choose Express Edition
-After installing SQL Server, it will automatically prompt for installing SQL Server Management Studio as install SSMD.
+
+Choose Express Edition. After installing SQL Server, it will automatically prompt for installing SQL Server Management Studio as install SSMD.

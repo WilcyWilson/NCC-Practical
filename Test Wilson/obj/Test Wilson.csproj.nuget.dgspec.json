@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/Test Wilson.csproj": {}
+    "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC-Practical/Test Wilson/Test Wilson.csproj": {}
   },
   "projects": {
-    "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/Test Wilson.csproj": {
+    "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC-Practical/Test Wilson/Test Wilson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/Test Wilson.csproj",
+        "projectUniqueName": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC-Practical/Test Wilson/Test Wilson.csproj",
         "projectName": "Test Wilson",
-        "projectPath": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/Test Wilson.csproj",
+        "projectPath": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC-Practical/Test Wilson/Test Wilson.csproj",
         "packagesPath": "/home/wilcy/.nuget/packages/",
-        "outputPath": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/Test Wilson/obj/",
+        "outputPath": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC-Practical/Test Wilson/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/wilcy/.nuget/NuGet/NuGet.Config"

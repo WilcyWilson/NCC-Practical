@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC/NCC.csproj": {}
+    "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC-Practical/NCC/NCC.csproj": {}
   },
   "projects": {
-    "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC/NCC.csproj": {
+    "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC-Practical/NCC/NCC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC/NCC.csproj",
+        "projectUniqueName": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC-Practical/NCC/NCC.csproj",
         "projectName": "NCC",
-        "projectPath": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC/NCC.csproj",
+        "projectPath": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC-Practical/NCC/NCC.csproj",
         "packagesPath": "/home/wilcy/.nuget/packages/",
-        "outputPath": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC/obj/",
+        "outputPath": "/mnt/50e70065-45a2-4ae9-983a-aca082f3c687/CSIT/NCC-Practical/NCC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/wilcy/.nuget/NuGet/NuGet.Config"
@@ -39,6 +39,10 @@
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[3.1.8, )"
+            },
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "target": "Package",
+              "version": "[2.9.3, )"
             }
           },
           "imports": [

@@ -45,5 +45,9 @@ Choose Express Edition. After installing SQL Server, it will automatically promp
 ## Create Connection VS Output
 ![Output](CreateConnectionOutput.png)
 
+## Installing System.Data.SqlClient Nuget Package to sue the different Classes of ADO.NET
+![Manage Nuget](ManageNuget.png)
+![Install System SqlClient](InstallSystemSqlClient.png)
+
 
 

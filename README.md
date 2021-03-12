@@ -37,3 +37,8 @@ Choose Express Edition. After installing SQL Server, it will automatically promp
 * In Linux, Authentication is SQL Authentication where Username and Password needs to be written. But, for Windows, the Windows Authenticationn doesn't require Username and Password.
 * Default Username is SA which is System Administrator. And, Password is what we set during MSSQL installation in Linux.
 * The Database column makes that database the default database while opening.
+
+## Creating Database in SSMS and Adding Data to the Table
+![Database Info](SSMSDatabase.png)
+![SSMS Add Data](SSMSAddData.png)
+

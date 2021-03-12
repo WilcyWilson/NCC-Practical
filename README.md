@@ -42,3 +42,8 @@ Choose Express Edition. After installing SQL Server, it will automatically promp
 ![Database Info](SSMSDatabase.png)
 ![SSMS Add Data](SSMSAddData.png)
 
+## Create Connection VS Output
+![Output](CreateConnectionOutput.png)
+
+
+

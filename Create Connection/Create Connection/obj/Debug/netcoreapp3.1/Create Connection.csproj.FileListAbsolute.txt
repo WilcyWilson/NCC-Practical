@@ -1,0 +1,20 @@
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\bin\Debug\netcoreapp3.1\Create Connection.exe
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\bin\Debug\netcoreapp3.1\Create Connection.deps.json
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\bin\Debug\netcoreapp3.1\Create Connection.runtimeconfig.json
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\bin\Debug\netcoreapp3.1\Create Connection.runtimeconfig.dev.json
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\bin\Debug\netcoreapp3.1\Create Connection.dll
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\bin\Debug\netcoreapp3.1\Create Connection.pdb
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\obj\Debug\netcoreapp3.1\Create Connection.csprojAssemblyReference.cache
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\obj\Debug\netcoreapp3.1\Create Connection.AssemblyInfoInputs.cache
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\obj\Debug\netcoreapp3.1\Create Connection.AssemblyInfo.cs
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\obj\Debug\netcoreapp3.1\Create Connection.csproj.CoreCompileInputs.cache
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\obj\Debug\netcoreapp3.1\Create Connection.csproj.CopyComplete
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\obj\Debug\netcoreapp3.1\Create Connection.dll
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\obj\Debug\netcoreapp3.1\Create Connection.pdb
+E:\CSIT\6th Semester\Projects\NET Centric Development\Git\Create Connection\Create Connection\obj\Debug\netcoreapp3.1\Create Connection.genruntimeconfig.cache
